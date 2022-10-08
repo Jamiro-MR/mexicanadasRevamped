@@ -1,2 +1,6 @@
-# mexicanadasRevamped
-Mexicanadas was a school project to create and manage a web blog with a specific focus. This however, attemps to fix and polish most of the issues and improve the overall logics/visual.
+# NewsWebBlog-Mexicanadas
+Second semester project focused around making and managing a web blog about a specific topic. In this case, my team and I choose to deliver mexican news and focused on a target audience revolving that idea.
+
+||Team 2, conformed by: -Chipres -Jairo -Anayansi and myself||
+
+------This Revamped version is a passion project to fix past mistakes and improve the overall looks and routes within the logic of this page------
